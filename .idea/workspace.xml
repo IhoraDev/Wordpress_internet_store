@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cfec324-c2a7-4917-b7a9-d7fe3fbde43f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1hHIFJOqTI45x6W4FeEr3W9z46N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cfec324-c2a7-4917-b7a9-d7fe3fbde43f" name="Default Changelist" comment="" />
+      <created>1599661486017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599661486017</updated>
+      <workItem from="1599661487117" duration="1029000" />
+      <workItem from="1599674118700" duration="2636000" />
+      <workItem from="1599736248758" duration="2688000" />
+      <workItem from="1599757179357" duration="2124000" />
+      <workItem from="1599770253230" duration="3855000" />
+      <workItem from="1599815384033" duration="1115000" />
+      <workItem from="1599816983661" duration="633000" />
+      <workItem from="1600846313298" duration="3666000" />
+      <workItem from="1600858694508" duration="2672000" />
+      <workItem from="1600889089697" duration="4469000" />
+      <workItem from="1600943325326" duration="641000" />
+      <workItem from="1600964262235" duration="257000" />
+      <workItem from="1600965456760" duration="421000" />
+      <workItem from="1600967996710" duration="605000" />
+      <workItem from="1601290603476" duration="1507000" />
+      <workItem from="1602012241865" duration="1176000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="13" width="806" height="709" key="#Plugins" timestamp="1599817013770">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="278" y="13" width="806" height="709" key="#Plugins/0.0.1366.735@0.0.1366.735" timestamp="1599817013770" />
+    <state x="414" y="162" width="534" height="411" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599760634332">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="414" y="162" width="534" height="411" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.735@0.0.1366.735" timestamp="1599760634332" />
+    <state x="415" y="210" width="531" height="314" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1602013317430">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="415" y="210" width="531" height="314" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.735@0.0.1366.735" timestamp="1602013317430" />
+    <state x="464" y="112" width="430" height="508" key="FileChooserDialogImpl" timestamp="1602013176946">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="464" y="112" width="430" height="508" key="FileChooserDialogImpl/0.0.1366.735@0.0.1366.735" timestamp="1602013176946" />
+    <state x="553" y="273" key="Github.ShareDialog" timestamp="1600968316332">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="553" y="273" key="Github.ShareDialog/0.0.1366.735@0.0.1366.735" timestamp="1600968316332" />
+    <state x="187" y="4" key="SettingsEditor" timestamp="1602012881369">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="187" y="4" key="SettingsEditor/0.0.1366.735@0.0.1366.735" timestamp="1602012881369" />
+    <state x="89" y="0" width="1234" height="735" key="find.popup" timestamp="1601292388274">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="89" y="0" width="1234" height="735" key="find.popup/0.0.1366.735@0.0.1366.735" timestamp="1601292388274" />
+  </component>
+</project>
